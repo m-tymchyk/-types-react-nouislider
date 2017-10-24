@@ -1,0 +1,16 @@
+{
+    "name": "@types/react-nouislider",
+    "version": "0.0.1",
+    "description": "TypeScript declaration for react-nouislider",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "license": "MIT",
+    "main": "index.d.ts",
+    "typings": "index.d.ts",
+    "dependencies": {
+        "@types/react": "^15.0.20",
+        "react-nouislider": "^2.0.1",
+        "nouislider": "^10.1.0"
+    }
+}
