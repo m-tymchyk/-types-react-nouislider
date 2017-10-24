@@ -46,7 +46,7 @@ declare module "react-nouislider" {
         constructor();
 
         createSlider(): void;
-
-        render();
     }
+
+    export default Nouislider;
 }
